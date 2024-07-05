@@ -1,1 +1,5 @@
-# Segundo-examen-parcial_Apps-Hibridas
+# Segundo examen parcial de Aplicaciones Hibridas
+
+Alumna: Gianella Lupo
+Profesor: Jonathan Cruz
+Comision: DWM4AH
